@@ -1,0 +1,25 @@
+_repo: Handyman_51546
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Banta, Frank
+    gutenberg_agent_id: '25711'
+    url: http://www.gutenberg.org/2009/agents/25711
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2016-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51546'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Prisoners -- Fiction'
+- GITenberg
+title: Handyman
+url: http://www.gutenberg.org/ebooks/51546
